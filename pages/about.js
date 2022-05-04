@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Meta from "../components/Meta";
 
-export default function About() {
+export default function about() {
   return (
     <div>
       <Meta title="About" />
